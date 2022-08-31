@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "charmExists",
+        "transactionLabel": "A test charmExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCharm",
+        "transactionLabel": "A test createCharm transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readCharm",
+        "transactionLabel": "A test readCharm transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCharm",
+        "transactionLabel": "A test updateCharm transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteCharm",
+        "transactionLabel": "A test deleteCharm transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
